@@ -1,1 +1,0 @@
-ALTER TABLE storage_logs ALTER COLUMN tx_hash DROP NOT NULL;

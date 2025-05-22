@@ -1,1 +1,0 @@
-DROP INDEX idx_prover_jobs_fri_queued_order2;

@@ -1,3 +1,0 @@
-eth:
-  sender:
-    proof_sending_mode: ONLY_REAL_PROOFS

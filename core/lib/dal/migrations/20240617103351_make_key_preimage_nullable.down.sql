@@ -1,3 +1,0 @@
-ALTER TABLE storage_logs
-    ALTER COLUMN address SET NOT NULL,
-    ALTER COLUMN key SET NOT NULL;

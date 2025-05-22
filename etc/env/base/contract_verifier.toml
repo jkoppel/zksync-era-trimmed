@@ -1,4 +1,0 @@
-[contract_verifier]
-compilation_timeout = 30
-prometheus_port = 3314
-port = 3070

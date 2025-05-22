@@ -1,3 +1,0 @@
-DROP INDEX IF EXISTS contract_verification_requests_status_processing_at_idx;
-DROP INDEX IF EXISTS etherscan_verification_requests_status_processing_at_idx;
-DROP TABLE IF EXISTS etherscan_verification_requests;
